@@ -52,7 +52,7 @@ const ComicsList = () => {
                     </a>
                 </li>
             )
-        });
+        })
 
         return (
             <ul className="comics__grid">
