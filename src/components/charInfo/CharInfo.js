@@ -57,6 +57,7 @@ const View = ({ char }) => {
         imgStyle = { 'objectFit': 'contain' };
     }
 
+
     return (
         <>
             <div className="char__basics">
